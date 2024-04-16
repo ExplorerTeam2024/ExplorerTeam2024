@@ -1,1 +1,1 @@
-# ExplorerTeam2024
+# team-explorer
